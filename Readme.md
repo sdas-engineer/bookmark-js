@@ -16,6 +16,7 @@ Use the [chrome browser](https://www.google.com/chrome/) to install Browser Book
 6. Start bookmarking!
 
 ## Screenshot
+![screenshot](https://raw.githubusercontent.com/sdas-engineer/bookmark-js/master/demo.gif)
 
 ## Contributing
 
